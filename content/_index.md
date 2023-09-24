@@ -1,6 +1,6 @@
 ---
 menu:
-~   main:
+    main:
         name: Home
         weight: 1
         params:
